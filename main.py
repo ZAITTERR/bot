@@ -12,6 +12,7 @@ from aiogram.types import (
     Message,
 )
 from os import getenv
+
 # ============ НАСТРОЙКИ ============
 BOT_TOKEN = getenv("BOT_TOKEN")
 CONTACT = "@Gymbrowinter"  # куда писать для покупки

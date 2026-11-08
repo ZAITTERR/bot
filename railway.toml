@@ -1,2 +1,2 @@
 [deploy]
-startCommand = "python Bot2.py"
+startCommand = "python main.py"
