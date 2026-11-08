@@ -14,7 +14,7 @@ from aiogram.types import (
 from os import getenv
 
 # ============ НАСТРОЙКИ ============
-BOT_TOKEN = getenv("BOT_TOKEN")
+BOT_TOKEN ="9203377526:AAEW1n6droRhhD_p1EK7e7xxMVHOkeIADcM"
 CONTACT = "@Gymbrowinter"  # куда писать для покупки
 
 logging.basicConfig(level=logging.INFO)
